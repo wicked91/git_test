@@ -1,3 +1,0 @@
-newfile_master
-newfile_master
-newfile_master
